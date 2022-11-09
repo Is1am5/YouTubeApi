@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTubeApi</string>
+    <string name="playlists">playlists</string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="try_again">Try again</string>
+    <string name="video_series">%s video series</string>
+</resources>
